@@ -38,7 +38,6 @@ font-weight:800;
 .nav{
     display:flex;
     width:100%;
-    display:flex;
     justify-content: end;
     list-style: none;
     
